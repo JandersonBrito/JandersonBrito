@@ -11,9 +11,8 @@ object **SEU NOME** {
  val name = "Janderson Araujo de Brito"
  val acknowledgements = "Frontend Developer, Game Developer"
  
- val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("Angular", "TypeScript", "JavaScript", "Unity 3D", "React", "PHP", "Laravel") 
-
+ val languages = listOf("TypeScript", "JavaScript", "C#", "PHP") 
+ val frameworks = listOf("Angular", "Unity 3D", "React", "Laravel") 
 }
 ```
 
