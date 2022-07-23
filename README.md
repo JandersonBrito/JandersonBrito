@@ -6,16 +6,6 @@ Gosto de criar ótimos softwares e jogos, também gosto de ajudar a fazer o mesm
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-
-var janderson = {
- val name = "Janderson Araujo de Brito"
- val acknowledgements = "Frontend Developer, Game Developer"
- 
- val languages = listOf("TypeScript", "JavaScript", "C#", "PHP") 
- val frameworks = listOf("Angular", "Unity 3D", "React", "Laravel") 
-}
-```
-
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/jandersonbrito">
